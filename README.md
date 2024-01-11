@@ -3,10 +3,7 @@
 <h2 align="center">Учусь на программной инженерии и работаю C# разработчиком</h2>
 
 <!---Для компактной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!---Для подробной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=floralunit&layout=compact)](https://github.com/floralunit/github-readme-stats)
 
 
 - 🤓 Языки: пишу в освновном на C#, изучаю C, C++, Assembly и JSX/JavaScript
