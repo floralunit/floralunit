@@ -1,5 +1,6 @@
 <h1 align="center">Привет, я Аня
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h2>Учусь на программной инженерии и работаю C# разработчиком</h2>
 <br/>
 - 🌱 Пишу в освновном на C#, изучаю C, C++, Assembly и JavaScript
 <br/>
