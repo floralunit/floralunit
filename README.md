@@ -16,7 +16,7 @@
 <br/>
 <li><a href="https://github.com/floralunit/Ancient-Egyptian-Hieroglyphic-Dictionary-WPF-MsSQL"><b> Древнеегипетский справочник (WPF)</b></a> - необходимый справочник для работы с древнеегипетскими текстами, десктопная версия.</li>
   <br/>
-<li><a href="https://github.com/floralunit/TrashMermaid-Unity-GameJam"><b> Mermaid vs Trash</b></a> - одна из игр с геймджема на Unity2D про русалку и техно-рыбу. Поиграть можно по <a href="https://floralunit.github.io/TrashMermaid-build/">ссылке</a> </li>
+<li><a href="https://github.com/floralunit/TrashMermaid-Unity-GameJam"><b> Mermaid vs Trash (Unity2D)</b></a> - одна из игр с геймджема про русалку и техно-рыбу. Поиграть можно по <a href="https://floralunit.github.io/TrashMermaid-build/">ссылке</a> </li>
   <br/>
 <li><a href="https://github.com/floralunit/ToDoListWithFinances-Xamarin-SQLite-MobileApp"><b> Калькулятор расходов (Xamarin)</b></a> - мобильное приложение для себя с калькулятором расходов и прочими штуками, нужными мне.</li>
   <br/>
