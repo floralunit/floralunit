@@ -1,5 +1,5 @@
-<h1 align="center">Привет, я Аня
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h2 align="center">Привет, я Аня
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
 <h5 align="center">software engineering student and C# junior developer</h5>
 <h3>🤓 Языки: C#, C, C++, Assembly, JSX/JavaScript</h3>
 <h3>🌱 Стек технологий: WPF, ASP.NET Core, Unity2D, ReactJs</h3>
