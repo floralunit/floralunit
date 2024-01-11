@@ -6,8 +6,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=floralunit&layout=compact)](https://github.com/floralunit/github-readme-stats) 
 
 </div>
-<h5>🤓 Языки: пишу в освновном на C#, изучаю C, C++, Assembly и JSX/JavaScript</h5>
-<h5>🌱 Стек технологий: WPF, ASP.NET Core, Unity2D, ReactJs</h5>
+<h3>🤓 Языки: пишу в освновном на C#, изучаю C, C++, Assembly и JSX/JavaScript</h3>
+<h3>🌱 Стек технологий: WPF, ASP.NET Core, Unity2D, ReactJs</h3>
 <ul>🔭 Мои основные проекты/репозитории:
 <li><a href="https://github.com/floralunit/floralunit-website-reactjs"><b> Мой творческий сайт (ReactJs)</b></a> Мой сайт для творчества, выкладывания фоток, музыки, экспериментов с дизайном. Сайт доступен по <a href="https://floralunit.neocities.org/">ссылке</a></li>
 <br/>
