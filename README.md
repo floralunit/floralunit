@@ -1,6 +1,6 @@
 <h1 align="center">Привет, я Аня
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Учусь на программной инженерии и работаю C# разработчиком</h3>
+<h5 align="center">Учусь на программной инженерии и работаю C# разработчиком</h5>
 <div align="center"> 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=floralunit&layout=compact)](https://github.com/floralunit/github-readme-stats) 
