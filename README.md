@@ -14,3 +14,7 @@
 <li>раз</li>
 <li>два</li>
 </ul>
+
+![](https://komarev.com/ghpvc/?username=floralunit)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=floralunit)](https://github.com/floralunit/github-profile-trophy)
