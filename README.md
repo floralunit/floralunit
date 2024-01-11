@@ -1,7 +1,14 @@
 <h1 align="center">Привет, я Аня
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">Учусь на программной инженерии и работаю C# разработчиком</h2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=floralunit)](https://github.com/floralunit/github-readme-stats)
+
+<!---Для компактной версии-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!---Для подробной версии-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 🤓 Языки: пишу в освновном на C#, изучаю C, C++, Assembly и JSX/JavaScript
 <br/>
 - 🌱 Стек технологий: WPF, ASP.NET Core, Unity2D, ReactJs
