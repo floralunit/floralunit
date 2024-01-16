@@ -11,7 +11,7 @@
 <br/>
 <li><a href="https://github.com/floralunit/Ancient-Egyptian-Hieroglyphic-Dictionary-WPF-MsSQL" target="_blank" rel="noreferrer"><b> Древнеегипетский справочник (WPF)</b></a> - необходимый справочник для работы с древнеегипетскими текстами, десктопная версия.</li>
   <br/>
-  <li><a href="https://github.com/floralunit/SocStipend-WPF-MVVM-SQLite" target="_blank" rel="noreferrer"><b> Десктоп приложение для управления справками (WPF|MVVM)</b></a> - декстопное приложение для хранения и работы со справками студентов (делала маме на работу).</li>
+  <li><a href="https://github.com/floralunit/SocStipend-WPF-MVVM-SQLite" target="_blank" rel="noreferrer"><b> Десктоп приложение для управления справками (WPF|MVVM)</b></a> - десктопное приложение для хранения и работы со справками студентов (делала маме на работу).</li>
   <br/>
 <li><a href="https://github.com/floralunit/TrashMermaid-Unity-GameJam" target="_blank" rel="noreferrer"><b> Mermaid vs Trash (Unity2D)</b></a> - одна из игр с геймджема про русалку и техно-рыбу. Поиграть можно по <a href="https://floralunit.github.io/TrashMermaid-build/" target="_blank" rel="noreferrer">ссылке</a>. </li>
   <br/>
