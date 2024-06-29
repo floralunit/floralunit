@@ -1,8 +1,8 @@
 <h2 align="center">Hello, I'm Anya
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
 <h5 align="center">I'm software engineering student and C# Junior developer</h5>
-<h3>🤓 Языки: C#, C, C++, Assembly, JavaScript, HTML, CSS, JSX</h3>
-<h3>🌱 Стек технологий: WPF, ASP.NET Core, Unity2D, ReactJs</h3>
+<h3>🤓 C#, C/C++, JavaScript, HTML/CSS, JSX</h3>
+<h3>🌱 Стек технологий: WPF, ASP.NET, Unity2D, ReactJs</h3>
 <h3>🔭 Мои основные проекты/репозитории: </h3>
 <ul>
 <li><a href="https://github.com/floralunit/floralunit-website-reactjs" target="_blank" rel="noreferrer"><b> Мой творческий сайт (ReactJs)</b></a> - мой сайт для творчества, выкладывания фоток, ведения музыкальных архивов, экспериментов с дизайном. Сайт доступен по <a href="https://floralunit.vercel.app/" target="_blank" rel="noreferrer">ссылке</a>.</li>
