@@ -1,7 +1,7 @@
 <h2 align="center">Hello, I'm Anya
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
 <h5 align="center">I'm software engineering student and C#/ReactJs developer</h5>
-<h3>🤓 C# (main), C/C++, Java, JavaScript, HTML/CSS, JSX, Prolog 😆</h3>
+<h3>🤓 C# (main), C/C++, Java, HTML/CSS/JavaScript, Prolog 😆</h3>
 <h3>🌱 ASP.NET Core, WPF, WinForms, Unity2D, ReactJs</h3>
 <h3>🔭 Мои основные проекты/репозитории: </h3>
 <ul>
